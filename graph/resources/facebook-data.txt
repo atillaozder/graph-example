@@ -1,0 +1,9 @@
+Olcay AliBugra CloseFriend
+AliBugra Mahmut Friend
+Mahmut Haydar CloseFriend
+Mahmut Olcay Friend
+Haydar Olcay Friend
+Haydar AliBugra Friend
+Mahmut AliBugra Friend
+Emre Mahmut Acquaintance
+Emre Haydar Acquaintance
